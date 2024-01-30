@@ -1,0 +1,12 @@
+cmake-build-debug/
+cmake-build-debug-wsl/
+cmake-build-release-clang/
+test/
+bin/
+.vscode
+*.zip
+*.rar
+.idea
+scripts/
+build/
+config.json
